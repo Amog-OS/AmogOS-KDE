@@ -1,15 +1,15 @@
 # AmogOS-KDE
 
-A Version of AmogOS which is More Tailored to Daily Usage all while Looking As **Sus** as Ever
+A version of AmogOS tailored to daily desktop usage, all while looking as **sus** as ever
 
 # Features
 
-1] Completely Revamped UI Aimed at Usability and Looks based on KDE Plasma 5
+1] Completely revamped UI aimed at Usability and looks, based on KDE Plasma 5
 
-2] Improved Aesthetics
+2] Improved aesthetics
 
-3] Wider and a more Vibrant Colour Scheme
+3] Wider and more vibrant Colour Scheme
 
-4] A Drop-down Terminal Emulator (Yakuake) Pre-installed
+4] A drop-down terminal emulator (Yakuake) pre-installed
 
 *More features Coming Soon*
